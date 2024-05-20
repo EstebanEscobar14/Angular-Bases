@@ -1,0 +1,10 @@
+h1 {
+  font-size: 25px;
+  color: blue;
+  font-style: italic;
+}
+
+dd{
+  font-size: 1rem;
+  font-weight: bold;
+}
